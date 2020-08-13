@@ -7,5 +7,17 @@
       "id": 2,
       "url": "https://i.ndtvimg.com/i/2017-10/diwali-snacks-faral_240x180_81507803839.jpg",
       "name": "Snaks"
+  },{
+      "id": 3,
+      "url": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/catimages/butter-chicken-recipe.jpg",
+      "name": "Chicken"
+  },{
+      "id": 4,
+      "url": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/catimages/butter-chicken-recipe.jpg",
+      "name": "Biryani"
+  },{
+      "id": 5,
+      "url": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/catimages/butter-chicken-recipe.jpg",
+      "name": "Cakes"
   }
  ]
