@@ -11,5 +11,13 @@
       "id": 3,
       "url": "https://www.inspiredtaste.net/wp-content/uploads/2017/10/Roasted-Chicken-with-Lemon-Recipe-1200.jpg",
       "name": "Chicken"
+  },{
+      "id": 4,
+      "url": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/catimages/butter-chicken-recipe.jpg",
+      "name": "Biryani"
+  },{
+      "id": 5,
+      "url": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/catimages/butter-chicken-recipe.jpg",
+      "name": "Cakes"
   }
  ]
