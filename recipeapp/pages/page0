@@ -70,12 +70,12 @@
 ",
     "thumbnail": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/catimages/Authentic-Hyderabadi-mutton-biryani-recipe-500x500.jpg",
     "video": "https://www.youtube.com/watch?v=S7K7xVNnFWI"
-     },
-	 {
-       "id": 5,
-       "title": "Butter Chicken - బట్టర్ చికెన్ ",
-       "type": "youtube",
-       "content" :"**Ingredients:**
+  },
+  {
+    "id": 5,
+    "title": "Butter Chicken - బట్టర్ చికెన్ ",
+    "type": "youtube",
+    "content" :"**Ingredients:**
 	   
 	   చికెన్  marinate చేయడానికి
 బోన్‌లెస్ చికెన్ - 200 గ్రాములు
@@ -140,10 +140,10 @@
 
 13. నాన్, రోటీ లేదా పులావ్‌తో వెన్న చికెన్‌ను వేడిగా Serve చేసుకోండి.",
 
-       "thumbnail": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/catimages/butter-chicken-recipe.jpg",
-       "video": "https://www.youtube.com/watch?v=D_fYk8mBaF4"
-     }, 
-     {
+    "thumbnail": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/catimages/butter-chicken-recipe.jpg",
+    "video": "https://www.youtube.com/watch?v=D_fYk8mBaF4"
+  }, 
+  {
     "id": 5,
     "title": "Chocolate cake - చాక్లెట్ కేక్",
     "type": "youtube",
