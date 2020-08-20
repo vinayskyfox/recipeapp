@@ -3,8 +3,8 @@
     "id": 5,
     "title": "Chocolate cake - చాక్లెట్ కేక్",
     "type": "youtube",
-    "content" :"**Ingredients:**
-  https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/catimages/maxresdefault%20(1).jpg",
+    "content" :"**Ingredients:**",
+    "image" : "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/catimages/maxresdefault%20(1)jpg",
     "thumbnail": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/catimages/maxresdefault%20(1).jpg",
     "video": "https://www.youtube.com/watch?v=B78ZhSGWQAQ"
    }
