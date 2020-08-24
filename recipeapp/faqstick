@@ -1,51 +1,5 @@
 [
   {
-    "id": 1,
-    "title": "1Q.How to find Templates Quickly",
-    "type": "1",
-    "url": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/faqimages/step1.png",
-    "image": ""
-  },
-  {
-    "id": 2,
-    "title": "A. Use Movie Name as keyword in search. Use this format Movie Name(mandatory) Hero or Herione or any actor name(optional) dialog(optional) \n if movie name is not found with spaces for eg:dubai seenu search as dubaiseenu. \n IF you still didnt found templates see in collection All are categories are sorted by Alphabetical order",
-    "type": "1",
-    "url": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/faqimages/step1.png",
-    "image": ""
-  },
-  {
-    "id": 3,
-    "title": "2Q. Why Main Search is taking time on start.\n A. There are more than 11k templates and also it depends on your internet connection. Go to particular category for fast search",
-    "type": "1",
-    "url": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/faqimages/step1.png",
-    "image": ""
-  },
-  {
-    "id": 4,
-    "title": "3Q. Can i search categories also?? \n A. Yes you can search categories too.",
-    "type": "1",
-    "url": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/faqimages/step1.png",
-    "image": ""
-  },
-  {
-    "id": 5,
-    "title": "4Q How to contact Templates raja?? \n A. you can find links below",
-    "type": "2",
-    "url": "https://instagram.com/templatesraja",
-    "image": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/faqimages/contactinsta.jpg"
-  },
-  {
-    "id": 6,
-    "title": "",
-    "type": "2",
-    "url": "https://facebook.com/templatesraja",
-    "image": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/faqimages/facebook.jpg"
-  },
-  {
-    "id": 7,
-    "title": "5Q. Are you creating this templates on your own?? \n \n A. NO 90 percent of Templates are Downloaded from different social media pages like templates ki adda,Meme Templates,Templates bhayya and more.Whole credits to them",
-    "type": "1",
-    "url": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/faqimages/step1.png",
-    "image": ""
+    "content": "Hello"
   }
 ]
