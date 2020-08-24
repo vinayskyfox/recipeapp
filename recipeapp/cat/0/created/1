@@ -3,7 +3,7 @@
     "id": 5,
     "title": "Chocolate cake - చాక్లెట్ కేక్",
     "type": "youtube",
-    "Content" : "<p>Ingredients :<\/p>\r\n<p><img src=\"https:\/\/www.indianhealthyrecipes.com\/wp-content\/uploads\/2016\/05\/mutton-curry-1-500x500.jpg\" \/><\/p>",
+    "content" : "<p>Ingredients :<\/p>\r\n<p><img src=\"https:\/\/www.indianhealthyrecipes.com\/wp-content\/uploads\/2016\/05\/mutton-curry-1-500x500.jpg\" \/><\/p>",
     "thumbnail": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/catimages/maxresdefault%20(1).jpg",
     "video": "https://www.youtube.com/watch?v=B78ZhSGWQAQ"
    }
