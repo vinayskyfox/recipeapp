@@ -1,23 +1,23 @@
 [
 {
       "id": 1,
-      "url": "https://www.plattershare.com/common/uploaded_files/recipe/5b0e7647d2c64.jpg",
+      "url": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/catimages/breakfast_1200x630xt.jpg",
       "name": "Breakfast"
   },{
       "id": 2,
-      "url": "https://i.ndtvimg.com/i/2017-10/diwali-snacks-faral_240x180_81507803839.jpg",
+      "url": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/catimages/food-samosas.jpg",
       "name": "Snaks"
   },{
       "id": 3,
-      "url": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/catimages/butter-chicken-recipe.jpg",
+      "url": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/catimages/chikkk.jpg",
       "name": "Chicken"
   },{
       "id": 4,
-      "url": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/catimages/butter-chicken-recipe.jpg",
+      "url": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/catimages/Chicken-Biryani_3.jpg",
       "name": "Biryani"
   },{
       "id": 5,
-      "url": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/catimages/butter-chicken-recipe.jpg",
+      "url": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/catimages/duet-swirls-cake-25.jpg",
       "name": "Cakes"
   }
  ]
