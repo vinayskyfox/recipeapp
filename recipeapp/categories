@@ -13,11 +13,11 @@
       "name": "Chicken"
   },{
       "id": 4,
-      "url": "https://github.com/vinayskyfox/recipeapp/blob/master/recipeapp/catimages/maxresdefault%20(1).jpg",
+      "url": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/catimages/Chicken-Biryani_3.jpg",
       "name": "Biryani"
   },{
       "id": 5,
-      "url": "https://github.com/vinayskyfox/recipeapp/blob/master/recipeapp/catimages/download%20(3).jfif",
+      "url": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/catimages/duet-swirls-cake-25.jpg",
       "name": "Cakes"
   }
  ]
