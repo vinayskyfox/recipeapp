@@ -19,5 +19,8 @@
       "id": 5,
       "url": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/catimages/duet-swirls-cake-25.jpg",
       "name": "Cakes"
-  }
+  },{
+      "id": 6,
+      "url": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/catimages/vegetarian-bean-and-barley-vegetable-soup-3377970_15-5b3f810146e0fb003758ff8b.jpg",
+      "name": "Soups"
  ]
