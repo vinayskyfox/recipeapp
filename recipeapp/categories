@@ -1,27 +1,32 @@
 [
 {
-      "id": 1,
+      "id": Breakfast,
       "url": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/catimages/breakfast_1200x630xt.jpg",
       "name": "Breakfast"
   },{
-      "id": 2,
+      "id": Snacks,
       "url": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/catimages/food-samosas.jpg",
       "name": "Snacks"
   },{
-      "id": 3,
+      "id": Chicken,
       "url": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/catimages/chikkk.jpg",
       "name": "Chicken"
   },{
-      "id": 4,
+      "id": Biryani,
       "url": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/catimages/Chicken-Biryani_3.jpg",
       "name": "Biryani"
   },{
-      "id": 5,
+      "id": Cakes,
       "url": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/catimages/duet-swirls-cake-25.jpg",
       "name": "Cakes"
   },{
-      "id": 6,
+      "id": Soups,
       "url": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/catimages/vegetarian-bean-and-barley-vegetable-soup-3377970_15-5b3f810146e0fb003758ff8b.jpg",
       "name": "Soups"
+      },
+      {
+      "id": Non Veg Curries,
+      "url": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/catimages/non%20veg%20curries.jpg",
+      "name": "Non-Veg Curries"
       }
  ]
