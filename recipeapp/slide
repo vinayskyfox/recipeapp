@@ -9,9 +9,9 @@
   },{
     "id": 2,
     "title": "Please Give us 5 Star Rating!!",
-    "type": "2",
-    "pos" : 9,
-    "image": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/catimages/WhatsApp%20Image%202020-08-25%20at%207.55.20%20PM.jpeg",
+    "type": "3",
+    "pos" : 25,
+    "image": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/catimages/popular%20recipe%20tc.jpeg",
     "url": "https://play.google.com/store/apps/details?id=com.greedyx.telugureceipe"
   }
 ]
