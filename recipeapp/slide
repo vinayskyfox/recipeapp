@@ -5,13 +5,13 @@
     "type": "3",
     "pos" : 7,
     "image": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/catimages/popular%20cp.jpeg",
-    "url": ""
+    "url": "https://play.google.com/store/apps/details?id=com.greedyx.telugureceipe"
   },{
     "id": 2,
     "title": "Please Give us 5 Star Rating!!",
     "type": "3",
     "pos" : 28,
     "image": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/catimages/popular%20recipe%20tc.jpeg",
-    "url": ""
+    "url": "https://play.google.com/store/apps/details?id=com.greedyx.telugureceipe"
   }
 ]
