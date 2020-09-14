@@ -3,15 +3,15 @@
     "id": 1,
     "title": "Support us By Giving 5 star rating!!",
     "type": "3",
-    "pos" : 5,
+    "pos" : ,
     "image": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/catimages/popular%20cp.jpeg",
-    "url": "https://play.google.com/store/apps/details?id=com.greedyx.telugureceipe"
+    "url": ""
   },{
     "id": 2,
     "title": "Please Give us 5 Star Rating!!",
     "type": "3",
-    "pos" : 26,
+    "pos" : ,
     "image": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/catimages/popular%20recipe%20tc.jpeg",
-    "url": "https://play.google.com/store/apps/details?id=com.greedyx.telugureceipe"
+    "url": ""
   }
 ]
