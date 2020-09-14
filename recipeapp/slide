@@ -3,14 +3,14 @@
     "id": 1,
     "title": "Support us By Giving 5 star rating!!",
     "type": "3",
-    "pos" : ,
+    "pos" : 7,
     "image": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/catimages/popular%20cp.jpeg",
     "url": ""
   },{
     "id": 2,
     "title": "Please Give us 5 Star Rating!!",
     "type": "3",
-    "pos" : ,
+    "pos" : 28,
     "image": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/catimages/popular%20recipe%20tc.jpeg",
     "url": ""
   }
