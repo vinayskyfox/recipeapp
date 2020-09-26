@@ -28,5 +28,10 @@
       "id": 7,
       "url": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/catimages/non%20veg%20curries.jpg",
       "name": "Non-Veg Curries"
+      },
+      {
+      "id": 8,
+      "url": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/catimages/gutti_vankaya_stuffed_eggplant_recipe.jpg",
+      "name": "Veg Curries"
       }
  ]
