@@ -34,4 +34,9 @@
       "url": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/catimages/gutti_vankaya_stuffed_eggplant_recipe.jpg",
       "name": "Veg Curries"
       }
+      {
+      "id": 9,
+      "url": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/catimages/chutney.jpg",
+      "name": "Chutneys"
+      }
  ]
