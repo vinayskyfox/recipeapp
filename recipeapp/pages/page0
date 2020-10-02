@@ -1,5 +1,14 @@
   [
    {
+    "id": 46,
+    "title": "Gulab Jamun - గులాబ్ జామున్",
+    "type": "youtube",
+    "content" :"<hr \/><hr \/>\r\n<h2>Ingredients:<\/h2>\r\n<hr \/>\r\n<p>&diams; \u0C2A\u0C3E\u0C32 \u0C2A\u0C4A\u0C21\u0C3F - Powdered milk <strong>(2 cups)<\/strong><\/p>\r\n<p>&diams; \u0C35\u0C46\u0C28\u0C4D\u0C28 - Butter <strong>(2 tbsp)<\/strong><\/p>\r\n<p>&diams; \u0C2C\u0C47\u0C15\u0C3F\u0C02\u0C17\u0C4D \u0C2A\u0C4C\u0C21\u0C30\u0C4D - Baking powder <strong>(1 tbsp)<\/strong><\/p>\r\n<p>&diams; \u0C06\u0C32\u0C4D-\u0C2A\u0C30\u0C4D\u0C2A\u0C38\u0C4D \u0C2A\u0C3F\u0C02\u0C21\u0C3F - All-purpose flour<strong> (2 tbsp)<\/strong><\/p>\r\n<p>&diams; \u0C38\u0C46\u0C2E\u0C4B\u0C32\u0C3F\u0C28\u0C3E\/<span lang=\"te\">\u0C2C\u0C3E\u0C02\u0C2C\u0C47 \u0C30\u0C35\u0C4D\u0C35&nbsp;<\/span>- Semolina <strong>(3 tbsp)<\/strong><\/p>\r\n<p>&diams; \u0C28\u0C40\u0C30\u0C41 - water <strong>2 tbsp<\/strong>&nbsp;at room temprature<\/p>\r\n<p>&diams; \u0C2A\u0C3E\u0C32\u0C41 - Milk <strong>(6-8 tbs)<\/strong> approximately<\/p>\r\n<p>&diams; \u0C28\u0C42\u0C28\u0C46 - oil for deep frying<\/p>\r\n<p>&diams; \u0C1A\u0C15\u0C4D\u0C15\u0C46\u0C30 - sugar <strong>(2 cups)<\/strong><\/p>\r\n<p>&diams; \u0C0F\u0C32\u0C15\u0C41\u0C32\u0C41 - green cardamom <strong>(4 - 5)<\/strong><\/p>\r\n<p>&diams; \u0C28\u0C40\u0C30\u0C41 - water <strong>(2 &amp; 3\/4 cups)<\/strong><\/p>\r\n<p>&diams; \u0C28\u0C3F\u0C2E\u0C4D\u0C2E\u0C30\u0C38\u0C02 - lemon juice <strong>(2 tbsp)<\/strong><\/p>\r\n<p>&diams; \u0C2A\u0C3F\u0C38\u0C4D\u0C24\u0C3E - pistachio for garnishing<\/p>\r\n<hr \/><hr \/>\r\n<p>&nbsp;<\/p>",
+    "thumbnail": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/catimages/gulab%20jamun.jpg",
+    "video": "https://www.youtube.com/watch?v=-3b_l5UzI5U&t=3s&ab_channel=Yummyyyy"
+     },
+  
+   {
     "id": 45,
     "title": "Samosa - సమోసా",
     "type": "youtube",
