@@ -1,5 +1,13 @@
   [
   {
+  "id":"55",
+  "title":"Egg Pudding - ",
+  "type": "youtube",
+  "content":"<hr \/><hr \/>\r\n<h2>Ingredients:<\/h2>\r\n<hr \/>\r\n<p>&diams; \u0C35\u0C46\u0C1A\u0C4D\u0C1A\u0C28\u0C3F \u0C2A\u0C3E\u0C32\u0C41 - Warm milk<strong> 200 ml<\/strong><\/p>\r\n<p>&diams; \u0C1A\u0C15\u0C4D\u0C15\u0C46\u0C30 - Sugar <strong>3 tbsp<\/strong><\/p>\r\n<p>&diams; \u0C35\u0C28\u0C3F\u0C32\u0C4D\u0C32\u0C3E - Vanilla <strong>1\/2 tbsp<\/strong><\/p>\r\n<p>&diams; \u0C2E\u0C27\u0C4D\u0C2F \u0C24\u0C30\u0C39\u0C3E \u0C17\u0C41\u0C21\u0C4D\u0C21\u0C41 - Large\/Medium sized egg <strong>1<\/strong><\/p>\r\n<p><br \/>&diams; \u0C1A\u0C15\u0C4D\u0C15\u0C46\u0C30 - Sugar&nbsp; <strong>2 tbsp<\/strong><\/p>\r\n<p>&diams; \u0C28\u0C40\u0C30\u0C41 - water <strong>1 tbsp<\/strong><\/p>\r\n<hr \/><hr \/>\r\n<p>&nbsp;<\/p>",
+  "thumbnail":"https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/catimages/custard-pudding-00.jpg",
+  "video":"https://www.youtube.com/watch?v=iPnGtQMxZsg"
+ },
+  {
     "id": 54,
     "title": "Brinjal Curry - గుత్తి వంకాయ",
     "type": "youtube",
