@@ -39,4 +39,9 @@
       "url": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/catimages/5_Delicious_Chutneys_That_You_Can_Make_With_Turbo_Chop.jpg",
       "name": "Chutneys"
       }
+      {
+      "id": 10,
+      "url": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/catimages/cat%20image%20of%20burger.jpg",
+      "name": "Burger/sandwich"
+  }
  ]
