@@ -43,5 +43,10 @@
       "id": 10,
       "url": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/catimages/cat%20image%20of%20burger.jpg",
       "name": "Burger - sandwich"
+  },
+  {
+      "id": 11,
+      "url": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/catimages/indian-dry-fruits-sweets_55610-660.jpg",
+      "name": "Sweets - Deserts"
   }
  ]
