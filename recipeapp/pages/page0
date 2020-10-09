@@ -7,7 +7,7 @@
   "thumbnail":"https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/catimages/tamota%20sauce.jpg",
   "video":"https://www.youtube.com/watch?v=jTg74ZT_5Vo"
  },
-  {
+ {
   "id":"59",
   "title":"Coconut Chutney - కొబ్బరి పచ్చడి",
   "type": "youtube",
@@ -15,7 +15,8 @@
   "thumbnail":"https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/catimages/coconut-chutney_.jpg",
   "video":"https://www.youtube.com/watch?v=jSynVkmGlwk"
  },
-  {
+  
+ {
   "id":"58",
   "title":"Egg Sandwich",
   "type": "youtube",
