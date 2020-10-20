@@ -1,6 +1,14 @@
   
  [
  {
+  "id":"71",
+  "title":"Paneer Pulao - పన్నీర్ పులావ్",
+  "type": "youtube",
+  "content":"<hr \/><hr \/>\r\n<h2>Ingredients:<\/h2>\r\n<hr \/>\r\n<p>&diams; \u0C2C\u0C3E\u0C38\u0C4D\u0C2E\u0C24\u0C3F \u0C2C\u0C3F\u0C2F\u0C4D\u0C2F\u0C02 - Basmati rice <strong>1 Cup<\/strong><\/p>\r\n<p>&diams; \u0C28\u0C40\u0C30\u0C41 - Water <strong>1 Cup<\/strong><\/p>\r\n<p>&diams; \u0C09\u0C2A\u0C4D\u0C2A\u0C41 - salt<\/p>\r\n<p>&diams; \u0C28\u0C46\u0C2F\u0C4D\u0C2F\u0C3F - ghee <strong>2 tbsps<\/strong><\/p>\r\n<p>&diams; \u0C2A\u0C28\u0C4D\u0C28\u0C40\u0C30\u0C4D - Paneer <strong>100gm<\/strong><\/p>\r\n<p>&diams; \u0C15\u0C4D\u0C2F\u0C3E\u0C30\u0C46\u0C1F\u0C4D - Carrot (Chopped) <strong>1\/4 Cup<\/strong><\/p>\r\n<p>&diams; \u0C1C\u0C40\u0C21\u0C3F\u0C2A\u0C2A\u0C4D\u0C2A\u0C41 - Cashews<\/p>\r\n<p>&diams; \u0C06\u0C2F\u0C3F\u0C32\u0C4D - Oil <strong>1 Tbsp<\/strong><\/p>\r\n<p>&diams; \u0C1C\u0C40\u0C32\u0C15\u0C30\u0C4D\u0C30 - Cumin Seeds <strong>1\/4 tsp<\/strong><\/p>\r\n<p>&diams; \u0C2C\u0C47 \u0C06\u0C15\u0C41 - Bay leaves<strong> 1<\/strong><\/p>\r\n<p>&diams; \u0C38\u0C4D\u0C1F\u0C3E\u0C30\u0C4D \u0C38\u0C4B\u0C02\u0C2A\u0C41 - Star anise <strong>1<\/strong><\/p>\r\n<p>&diams; \u0C26\u0C3E\u0C32\u0C4D\u0C1A\u0C3F\u0C28 \u0C1A\u0C46\u0C15\u0C4D\u0C15 \u0C15\u0C30\u0C4D\u0C30 - Cinnamon stick<strong> 1<\/strong><\/p>\r\n<p>&diams; \u0C32\u0C35\u0C02\u0C17\u0C3E\u0C32\u0C41 - Cloves<strong> 2<\/strong><\/p>\r\n<p>&diams; \u0C0F\u0C32\u0C15\u0C41\u0C32\u0C41 - Cardamom <strong>2<\/strong><\/p>\r\n<p>&diams; \u0C09\u0C32\u0C4D\u0C32\u0C3F\u0C2A\u0C3E\u0C2F - Onion(Chopped) <strong>1<\/strong><\/p>\r\n<p>&diams; \u0C2A\u0C1A\u0C4D\u0C1A\u0C3F\u0C2E\u0C3F\u0C30\u0C4D\u0C1A\u0C3F - Green chilli <strong>1<\/strong><\/p>\r\n<p>&diams; \u0C05\u0C32\u0C4D\u0C32\u0C02 &amp; \u0C35\u0C46\u0C32\u0C4D\u0C32\u0C41\u0C32\u0C4D\u0C32\u0C3F \u0C2A\u0C47\u0C38\u0C4D\u0C1F\u0C4D - Ginger &amp; garlic paste <strong>1 Tbsp<\/strong><\/p>\r\n<p>&diams; \u0C17\u0C4D\u0C30\u0C40\u0C28\u0C4D \u0C2C\u0C20\u0C3E\u0C28\u0C40\u0C32\u0C41 - Green peas (Fresh)<\/p>\r\n<p>&diams; \u0C28\u0C3F\u0C2E\u0C4D\u0C2E\u0C30\u0C38\u0C02 - Lemon Juice - <strong>1 tbsp<\/strong><\/p>\r\n<hr \/><hr \/>\r\n<p>&nbsp;<\/p>",
+  "thumbnail":"https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/catimages/Screenshot%20(34).png",
+  "video":"https://www.youtube.com/watch?v=2xyHQTF2rCY&list=PLpL_lDoW2GB9lpcxKWPzqY-4WdwXhl5bK"
+ },
+ {
   "id":"67",
   "title":"Chicken Dum Biryani - చికెన్ దం బిర్యానీ",
   "type": "youtube",
