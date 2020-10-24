@@ -1,5 +1,13 @@
   [
   {
+  "id":"81",
+  "title":"Chicken Kabab - చికెన్ కబాబ్",
+  "type": "youtube",
+  "content":"<hr \/>\r\n<h2>Ingredients:<\/h2>\r\n<hr \/><hr \/>\r\n<p>&diams; \u0C1A\u0C3F\u0C15\u0C46\u0C28\u0C4D - chicken <strong>500 gms<\/strong><\/p>\r\n<p>&diams; \u0C15\u0C4A\u0C24\u0C4D\u0C24\u0C3F\u0C2E\u0C40\u0C30 - Coriander Leaves<strong> &frac12; cup<\/strong><\/p>\r\n<p>&diams; \u0C2A\u0C41\u0C26\u0C40\u0C28\u0C3E - Mint leaves <strong>&frac12; cup<\/strong><\/p>\r\n<p>&diams; \u0C2A\u0C1A\u0C4D\u0C1A\u0C3F\u0C2E\u0C3F\u0C30\u0C4D\u0C1A\u0C3F - Green chilli <strong>3<\/strong><\/p>\r\n<p>&diams; \u0C28\u0C3F\u0C2E\u0C4D\u0C2E\u0C30\u0C38\u0C02 - Lemon Juice - <strong>1 tbsp<\/strong><\/p>\r\n<p>&diams; \u0C09 \u0C2A\u0C4D\u0C2A\u0C41 - Salt<strong> &frac12; tbsp<\/strong><\/p>\r\n<p>&diams; \u0C05\u0C32\u0C4D\u0C32\u0C02 \u0C35\u0C46\u0C32\u0C4D\u0C32\u0C41\u0C32\u0C4D\u0C32\u0C3F \u0C2A\u0C47\u0C38\u0C4D\u0C1F\u0C4D - ginger garlic paste <strong>2 tbsp<\/strong><\/p>\r\n<p>&diams; \u0C2A\u0C46\u0C30\u0C41\u0C17\u0C41 - curd <strong>&frac12; cup<\/strong><\/p>\r\n<p>&diams; \u0C2A\u0C3E\u0C32 - milk powder <strong>4 tbsp<\/strong><\/p>\r\n<p>&diams; \u0C1A\u0C15\u0C4D\u0C15\u0C46\u0C30 - Sugar<strong> &frac12; tsp<\/strong><\/p>\r\n<p>&diams; \u0C09 \u0C2A\u0C4D\u0C2A\u0C41 - Salt <strong>1 tbsp<\/strong><\/p>\r\n<p>&diams; \u0C28\u0C42\u0C28\u0C46 - Oil - <strong>1 tbsp<\/strong><\/p>\r\n<hr \/><hr \/>\r\n<p>&nbsp;<\/p>",
+  "thumbnail":"https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/catimages/chciken%20kabab.jpg",
+  "video":"https://www.youtube.com/watch?v=Fd20VNJsyfw"
+ },
+  {
     "id": 52,
     "title": "simple Chicken Curry - For బాచిలర్స్ ",
     "type": "youtube",
