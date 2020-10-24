@@ -3,6 +3,30 @@
     "id": 1,
     "title": "Support us By Giving 5 star rating!!",
     "type": "2",
+    "pos" : 33,
+    "image": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/catimages/sweets%20special.jpeg",
+    "url": "https://play.google.com/store/apps/details?id=com.greedyx.telugureceipe"
+  },
+ {
+    "id": 4,
+    "title": "Support us By Giving 5 star rating!!",
+    "type": "2",
+    "pos" : 9,
+    "image": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/catimages/ravan.jpeg",
+    "url": "https://play.google.com/store/apps/details?id=com.greedyx.telugureceipe"
+  },
+ {
+    "id": 5,
+    "title": "Support us By Giving 5 star rating!!",
+    "type": "2",
+    "pos" : 8,
+    "image": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/catimages/happy%20dussera.jpeg",
+    "url": "https://play.google.com/store/apps/details?id=com.greedyx.telugureceipe"
+  },
+ {
+    "id": 1,
+    "title": "Support us By Giving 5 star rating!!",
+    "type": "2",
     "pos" : 7,
     "image": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/catimages/popular%20cp.jpeg",
     "url": "https://play.google.com/store/apps/details?id=com.greedyx.telugureceipe"
