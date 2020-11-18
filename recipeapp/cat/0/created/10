@@ -25,9 +25,9 @@
  },
  {
   "id":"100",
-  "title":"test",
+  "title":"tests",
   "type": "youtube",
-  "content":"<p><img style=\"max-width: 100%; width: 100%;\" src=\"https:\/\/raw.githubusercontent.com\/vinayskyfox\/recipeapp\/master\/recipeapp\/catimages\/new%20ing%20temp.png\" width=\"450\" height=\"500\" \/><img style=\"max-width: 100%; width: 100%;\" src=\"https:\/\/raw.githubusercontent.com\/vinayskyfox\/recipeapp\/master\/recipeapp\/catimages\/ing%202.png\" width=\"450\" height=\"500\" \/><\/p>",
+  "content":"<p><img style=\"max-width: 100%; width: 100%;\" src=\"https:\/\/raw.githubusercontent.com\/vinayskyfox\/recipeapp\/master\/recipeapp\/catimages\/new%20ing%20temp.png\" width=\"450\" height=\"500\" \/><img style=\"max-width: 100%; width: 100%;\" src=\"https:\/\/raw.githubusercontent.com\/vinayskyfox\/recipeapp\/master\/recipeapp\/catimages\/steps%20temp.png\" alt=\"\" width=\"450\" height=\"500\" \/><img style=\"max-width: 100%; width: 100%;\" src=\"https:\/\/raw.githubusercontent.com\/vinayskyfox\/recipeapp\/master\/recipeapp\/catimages\/ing%202.png\" width=\"450\" height=\"500\" \/><\/p>",
   "video":""
  }
  ]
