@@ -25,9 +25,9 @@
  },
  {
   "id":"100",
-  "title":"tet",
+  "title":"testing",
   "type": "youtube",
-  "content":"<p><img src=\"https:\/\/raw.githubusercontent.com\/vinayskyfox\/recipeapp\/master\/recipeapp\/catimages\/Red%20Plane%20Icons%20Packing%20List.png\" width=\"450\" height=\"540\" \/><\/p>",
+  "content":"<p><img style=\"max-width: 100%; width: 100%;\" src=\"https:\/\/raw.githubusercontent.com\/vinayskyfox\/recipeapp\/master\/recipeapp\/catimages\/Red%20Plane%20Icons%20Packing%20List.png\" width=\"450\" height=\"540\" \/><\/p>",
   "thumbnail":"",
   "video":""
  }
