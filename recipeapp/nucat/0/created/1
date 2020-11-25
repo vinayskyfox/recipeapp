@@ -9,6 +9,6 @@
   "id":"2",
   "title":"Apple",
   "content":"<h3><strong><span style=\"color: #008000;\">\u2771<\/span> Apple Nutrional Facts :<\/strong><\/h3>\r\n<p>Here are the nutrition facts for one raw, unpeeled, medium-sized apple (100 grams):<\/p>\r\n<ul>\r\n<li><strong>Calories: <\/strong>52<\/li>\r\n<li><strong>Water: <\/strong>86%<\/li>\r\n<li><strong>Protein: <\/strong>0.3 grams<\/li>\r\n<li><strong>Carbs: <\/strong>13.8 grams<\/li>\r\n<li><strong>Sugar: <\/strong>10.4 grams<\/li>\r\n<li><strong>Fiber: <\/strong>2.4 grams<\/li>\r\n<li><strong>Fat: <\/strong>0.2 grams<\/li>\r\n<\/ul>\r\n<h3><strong><span style=\"color: #008000;\">\u2771<\/span> Vitamins and Minerals :<\/strong><\/h3>\r\n<p>Apples boast many vitamins and minerals, though not in high amounts. However, apples are usually a good source of vitamin C.<\/p>\r\n<ul class=\"hl-long-line\">\r\n<li><strong>Vitamin C. <\/strong>Also called ascorbic acid, this vitamin is a common antioxident in fruits. It&rsquo;s an essential dietary nutrient that has many important functions in your body.<\/li>\r\n<li><strong>Potassium.<\/strong> The main mineral in apples, potassium may benefit heart health when consumed in high amounts.<\/li>\r\n<\/ul>\r\n<h3><strong>&nbsp;<\/strong><\/h3>",
-  "thumbnail":"https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/recipeimages/Nutrition%20Pics/apple.png"
+  "thumbnail:"https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/recipeimages/Nutrition%20Pics/apple.png"
   }
   ]
