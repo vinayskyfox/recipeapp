@@ -1,41 +1,11 @@
 [
  {
-    "id": 3,
-    "title": "Support us By Giving 5 star rating!!",
-    "type": "2",
-    "pos" : 33,
-    "image": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/catimages/food%20qoute.jpeg",
-    "url": "https://play.google.com/store/apps/details?id=com.greedyx.telugureceipe"
-  },
- {
-    "id": 4,
-    "title": "Support us By Giving 5 star rating!!",
-    "type": "2",
-    "pos" : 9,
-    "image": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/catimages/diwali%20spc%20sweets.jpeg",
-    "url": "https://play.google.com/store/apps/details?id=com.greedyx.telugureceipe"
-  },
- {
     "id": 5,
     "title": "Support us By Giving 5 star rating!!",
-    "type": "2",
+    "type": "1",
     "pos" : 8,
+    "video":"",
     "image":"https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/recipeimages/App%20Home%20Page%20card.png",
     "url": "https://play.google.com/store/apps/details?id=com.greedyx.telugureceipe"
-  },
- {
-    "id": 1,
-    "title": "Support us By Giving 5 star rating!!",
-    "type": "2",
-    "pos" : 7,
-    "image": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/catimages/popular%20cp.jpeg",
-    "url": "https://play.google.com/store/apps/details?id=com.greedyx.telugureceipe"
-  },{
-    "id": 2,
-    "title": "Please Give us 5 Star Rating!!",
-    "type": "2",
-    "pos" : 28,
-    "image": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/catimages/popular%20recipe%20tc.jpeg",
-    "url": "https://play.google.com/store/apps/details?id=com.greedyx.telugureceipe"
   }
-]
+ ]
