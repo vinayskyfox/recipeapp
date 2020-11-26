@@ -3,5 +3,30 @@
       "id": 1,
       "url": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/recipeimages/Nutrition%20Pics/fruits%20image-min%2059.png",
       "name": "Fruits"
+  },
+  {
+      "id": 2,
+      "url": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/recipeimages/Nutrition%20Pics/Vegitables%20TN.jpg",
+      "name": "Vegitables"
+  },
+  {
+      "id": 3,
+      "url": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/recipeimages/Nutrition%20Pics/Grain%20and%20Nuts%20TN.jpg",
+      "name": "Grains, Beans and Nuts"
+  },
+  {
+      "id": 4,
+      "url": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/recipeimages/Nutrition%20Pics/Dairy%20TN.png",
+      "name": "Dairy Food"
+  },
+   {
+      "id": 5,
+      "url": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/recipeimages/Nutrition%20Pics/Sea%20food.png",
+      "name": "Fish and Seafood"
+  },
+  {
+      "id": 6,
+      "url": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/recipeimages/Nutrition%20Pics/Meat%20and%20Poultry%20TN.png",
+      "name": "Meat and Poultry"
   }
   ]
