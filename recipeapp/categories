@@ -1,23 +1,23 @@
 [
 {
       "id": 1,
-      "url": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/catimages/breakfast_1200x630xt.jpg",
+      "url": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/recipeimages/Category%20TN/Breakfast%20TN.jpg",
       "name": "Breakfast"
   },{
       "id": 2,
-      "url": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/catimages/food-samosas.jpg",
+      "url": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/recipeimages/Category%20TN/Snaks%20TN.jpg",
       "name": "Snacks"
   },{
       "id": 3,
-      "url": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/catimages/chikkk.jpg",
+      "url": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/recipeimages/Category%20TN/Chicken%20TN.jpg",
       "name": "Chicken"
   },{
       "id": 4,
-      "url": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/catimages/Chicken-Biryani_3.jpg",
+      "url": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/recipeimages/Category%20TN/Biryani%20TN.jpg",
       "name": "Biryani"
   },{
       "id": 5,
-      "url": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/catimages/duet-swirls-cake-25.jpg",
+      "url": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/recipeimages/Category%20TN/Cakes%20TN.jpg",
       "name": "Cakes"
   },{
       "id": 6,
