@@ -21,32 +21,32 @@
       "name": "Cakes"
   },{
       "id": 6,
-      "url": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/catimages/vegetarian-bean-and-barley-vegetable-soup-3377970_15-5b3f810146e0fb003758ff8b.jpg",
+      "url": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/recipeimages/Category%20TN/Soups%20TN.jpg",
       "name": "Soups"
       },
       {
       "id": 7,
-      "url": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/catimages/non%20veg%20curries.jpg",
+      "url": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/recipeimages/Category%20TN/Non%20Veg%20TN.jpg",
       "name": "Non-Veg Curries"
       },
       {
       "id": 8,
-      "url": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/catimages/gutti_vankaya_stuffed_eggplant_recipe.jpg",
+      "url": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/recipeimages/Category%20TN/Veg%20TN.jpg",
       "name": "Veg Curries"
       },
       {
       "id": 9,
-      "url": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/catimages/5_Delicious_Chutneys_That_You_Can_Make_With_Turbo_Chop.jpg",
+      "url": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/recipeimages/Category%20TN/Chutney%20TN.jpg",
       "name": "Chutneys"
       },
       {
       "id": 10,
-      "url": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/catimages/cat%20image%20of%20burger.jpg",
+      "url": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/recipeimages/Category%20TN/Burgers%20TN.jpg",
       "name": "Burger - sandwich"
   },
   {
       "id": 11,
-      "url": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/catimages/indian-dry-fruits-sweets_55610-660.jpg",
+      "url": "https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/recipeimages/Category%20TN/Sweets%20TN.jpg",
       "name": "Sweets - Deserts"
   }
  ]
