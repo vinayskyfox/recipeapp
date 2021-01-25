@@ -6,13 +6,7 @@
     "pos" : 8,
     "image":"https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/recipeimages/App%20Home%20Page%20card.png",
     "url": "https://play.google.com/store/apps/details?id=com.greedyx.telugureceipe"
-  },
-  {
-    "id": 7,
-    "title": "Support us By Giving 5 star rating!!",
-    "type": "2",
-    "pos" : 8,
-    "image":"https://raw.githubusercontent.com/vinayskyfox/recipeapp/master/recipeapp/recipeimages/Cards/Pongal-133.jpg",
-    "url": "https://play.google.com/store/apps/details?id=com.greedyx.telugureceipe"
   }
- ]
+  ]
+ 
+
